@@ -1,4 +1,4 @@
-content = """# 👋 Hi, I'm **Suhas Shetty**!  
+# 👋 Hi, I'm **Suhas Shetty**!  
 
 🚀 **Full Stack Developer | Blockchain Enthusiast**  
 🌍 **Boston, MA** | 📧 [suhasshetty570@gmail.com](mailto:suhasshetty570@gmail.com)  
